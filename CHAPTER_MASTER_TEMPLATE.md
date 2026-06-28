@@ -48,3 +48,62 @@
 حداکثر ۵ منبع با DOI/PMID
 
 <!-- متادیتای پنهان (برای data/cases) در نسخه کامل اضافه می‌شود -->
+<!-- CASE_METADATA_JSON_START
+{
+  "case_id": "MMX-XXX-000",
+  "schema_version": "2.0",
+  "status": "draft",
+  "case_archetype": "mimic",
+  "book_ref": {
+    "chapter": 0,
+    "title_fa": "",
+    "title_en": ""
+  },
+  "source": {
+    "doi": "",
+    "pmid": "",
+    "region": "",
+    "open_access": false,
+    "outcome_from_source": true
+  },
+  "host_factors": [],
+  "immune_status": "immunocompetent",
+  "presentation": {
+    "site": [],
+    "onset": "acute",
+    "key_signs": [],
+    "symptoms_free_fa": "",
+    "symptoms_free_en": ""
+  },
+  "diagnosis": {
+    "disease_fa": "",
+    "disease_en": "",
+    "organism": "",
+    "organism_code": "",
+    "confidence": "possible"
+  },
+  "diagnostic_delay_days": 0,
+  "initial_wrong_diagnosis": "",
+  "cognitive_errors": [],
+  "differential": [],
+  "anti_match_alerts": [],
+  "pearls": [
+    {
+      "pearl_id": "P-XXX-000-1",
+      "pearl_type": "do_not_miss",
+      "pearl_fa": "",
+      "pearl_en": "",
+      "trigger_context": {},
+      "evidence_level": "C",
+      "source_ref": "",
+      "last_reviewed": ""
+    }
+  ],
+  "treatment_guideline": "",
+  "tags": [],
+  "reviewed_by": "",
+  "version": 1,
+  "updated_at": "",
+  "notes": ""
+}
+CASE_METADATA_JSON_END -->
