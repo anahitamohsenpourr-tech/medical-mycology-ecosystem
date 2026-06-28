@@ -1,0 +1,4 @@
+/data/ @clinical-reviewer
+/book/ @clinical-reviewer
+/src/  @maintainer
+/schema/ @maintainer

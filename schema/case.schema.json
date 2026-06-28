@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "required": [
+    "case_id",
+    "schema_version",
+    "host_factors",
+    "immune_status",
+    "presentation",
+    "diagnosis",
+    "pearls"
+  ]
+}

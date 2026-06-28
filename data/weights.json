@@ -1,0 +1,8 @@
+{
+  "host_factors": 30,
+  "immune_status": 10,
+  "site": 25,
+  "key_signs": 25,
+  "onset": 5,
+  "organism_hint": 5
+}

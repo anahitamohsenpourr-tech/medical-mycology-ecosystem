@@ -1,0 +1,29 @@
+{
+  "case_id": "MMX-CRY-001",
+  "schema_version": "2.0",
+  "host_factors": [
+    "immunocompetent"
+  ],
+  "immune_status": "immunocompetent",
+  "presentation": {
+    "site": [
+      "lung"
+    ],
+    "onset": "chronic",
+    "key_signs": [
+      "lung_mass",
+      "chronic_cough"
+    ]
+  },
+  "diagnosis": {
+    "organism_code": "cryptococcus"
+  },
+  "pearls": [
+    {
+      "pearl_type": "do_not_miss",
+      "pearl_fa": "...",
+      "pearl_en": "...",
+      "evidence_level": "B"
+    }
+  ]
+}

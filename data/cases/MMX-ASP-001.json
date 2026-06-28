@@ -1,0 +1,30 @@
+{
+  "case_id": "MMX-ASP-001",
+  "schema_version": "2.0",
+  "host_factors": [
+    "neutropenia",
+    "malignancy"
+  ],
+  "immune_status": "immunocompromised",
+  "presentation": {
+    "site": [
+      "lung"
+    ],
+    "onset": "acute",
+    "key_signs": [
+      "lung_nodule",
+      "halo_sign"
+    ]
+  },
+  "diagnosis": {
+    "organism_code": "aspergillus"
+  },
+  "pearls": [
+    {
+      "pearl_type": "discriminator",
+      "pearl_fa": "...",
+      "pearl_en": "...",
+      "evidence_level": "B"
+    }
+  ]
+}

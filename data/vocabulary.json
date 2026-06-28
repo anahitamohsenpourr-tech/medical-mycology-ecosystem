@@ -1,0 +1,111 @@
+{
+  "_meta": {
+    "version": "2.0"
+  },
+  "host_factors": {
+    "immunocompetent": {
+      "fa": "ایمنوکامپتنت",
+      "en": "Immunocompetent"
+    },
+    "neutropenia": {
+      "fa": "نوتروپنی",
+      "en": "Neutropenia"
+    },
+    "malignancy": {
+      "fa": "بدخیمی",
+      "en": "Malignancy"
+    }
+  },
+  "immune_status": {
+    "immunocompetent": {
+      "fa": "ایمنوکامپتنت",
+      "en": "Immunocompetent"
+    },
+    "immunocompromised": {
+      "fa": "نقص ایمنی",
+      "en": "Immunocompromised"
+    }
+  },
+  "site": {
+    "lung": {
+      "fa": "ریه",
+      "en": "Lung"
+    }
+  },
+  "onset": {
+    "acute": {
+      "fa": "حاد",
+      "en": "Acute"
+    },
+    "chronic": {
+      "fa": "مزمن",
+      "en": "Chronic"
+    }
+  },
+  "key_signs": {
+    "lung_mass": {
+      "fa": "توده ریوی",
+      "en": "Lung mass"
+    },
+    "lung_nodule": {
+      "fa": "ندول ریوی",
+      "en": "Lung nodule"
+    },
+    "halo_sign": {
+      "fa": "علامت هاله",
+      "en": "Halo sign"
+    },
+    "chronic_cough": {
+      "fa": "سرفه مزمن",
+      "en": "Chronic cough"
+    }
+  },
+  "organism": {
+    "cryptococcus": {
+      "fa": "کریپتوکوکوس",
+      "en": "Cryptococcus"
+    },
+    "aspergillus": {
+      "fa": "آسپرژیلوس",
+      "en": "Aspergillus"
+    }
+  },
+  "cognitive_errors": {
+    "anchoring": {
+      "fa": "Anchoring",
+      "en": "Anchoring bias"
+    },
+    "premature_closure": {
+      "fa": "Premature closure",
+      "en": "Premature closure"
+    },
+    "availability": {
+      "fa": "Availability",
+      "en": "Availability bias"
+    }
+  },
+  "pearl_type": {
+    "do_not_miss": {
+      "fa": "از قلم ننداز",
+      "en": "Do not miss"
+    },
+    "discriminator": {
+      "fa": "تمایزدهنده",
+      "en": "Discriminator"
+    },
+    "myth_buster": {
+      "fa": "اصلاح باور غلط",
+      "en": "Myth buster"
+    }
+  },
+  "case_archetype": {
+    "mimic": {
+      "fa": "مقلِّد",
+      "en": "Mimic"
+    },
+    "prototype": {
+      "fa": "پایه",
+      "en": "Prototype"
+    }
+  }
+}
